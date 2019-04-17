@@ -1,2 +1,0 @@
-# reactjsone
-Created with CodeSandbox
